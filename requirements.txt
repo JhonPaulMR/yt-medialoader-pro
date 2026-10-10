@@ -1,0 +1,7 @@
+customtkinter>=5.2
+yt-dlp[default]
+# desenvolvimento / testes
+pytest
+pyftpdlib
+# gerar o executável (opcional)
+# pyinstaller

@@ -1,0 +1,20 @@
+# Dados pessoais: cookies da conta, configurações, perfil do Chrome, logs
+cookies.txt
+*.cookies.txt
+data/
+
+# Biblioteca de músicas (arquivos grandes / com direitos autorais)
+Downloads_Playlist_HQ/
+*.m4a
+*.mp3
+*.opus
+*.webm
+
+# Build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/

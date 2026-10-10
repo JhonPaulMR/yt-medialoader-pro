@@ -1,0 +1,20 @@
+MediaLoader Pro instalado!
+
+O app precisa de dois programas gratuitos que não vêm no instalador.
+Se ainda não tiver, abra o "Prompt de Comando" ou o "PowerShell" e rode:
+
+    winget install Gyan.FFmpeg
+    winget install DenoLand.Deno
+
+Depois feche e abra o MediaLoader. Na tela Diagnóstico → Ambiente você
+confere se está tudo OK (FFmpeg, Deno, yt-dlp).
+
+Na primeira vez, o app pergunta qual é a pasta da sua biblioteca de músicas.
+Se você já usava a versão em script, escolha a pasta antiga para continuar
+de onde parou (o histórico de downloads fica dentro dela).
+
+Seus dados (configurações, cookies, playlists salvas, logs) ficam em
+%LOCALAPPDATA%\MediaLoader e são mantidos se você desinstalar o app.
+
+O manual completo está no Menu Iniciar → "Manual do MediaLoader" e no
+botão "? Ajuda / manual" dentro do app.
